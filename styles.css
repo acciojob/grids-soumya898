@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+.sc-container{
+    border: 3px solid greenyellow;
+    background-color: black;
+    width: 1200px;
+    margin: 50px;
+}
+.sc-row{
+    border: 2px solid pink;
+    height: 200px;
+}
+
+.sc-col{
+    border: 2px dotted white;
+}
+
+.r1c1{
+    background-color: teal;
+}
+.r1c2{
+background-color: thistle;
+}
+.r2c1{
+background-color:tomato;
+}
+.r2c2{
+background-color:turquoise
+}
+.r3c1{
+background-color:violet
+}
+.r3c2{
+background-color: yellowgreen;
+}
